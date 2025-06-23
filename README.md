@@ -1,4 +1,4 @@
-Tic-Tac-Toe (Python)
+**Tic-Tac-Toe (Python)**
 
 This is a simple command-line Tic-Tac-Toe game in Python.
 
@@ -18,7 +18,7 @@ Enjoy the game!
 
 
 
-ChattyBot - A Simple Python Chatbot
+**ChattyBot - A Simple Python Chatbot**
 
 This is a basic command-line chatbot called ChattyBot.
 
@@ -43,7 +43,7 @@ Have fun chatting!
 
 
 
-Movie Recommender (Python)
+**Movie Recommender (Python)**
 
 This is a simple movie recommendation script.
 
